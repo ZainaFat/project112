@@ -1,0 +1,21 @@
+.heading{
+    width:50%;
+    font-family: Verdana;
+    font-size:25px;
+}
+.name_of_objects{
+    background-color: deepskyblue;
+    color:white;
+    font-size: 30px;
+}
+    #camera{
+        border-style: double;
+        border-color:black;
+        background-color: white;
+        height: 250px;
+    width: 360px;
+    }
+    body{
+        background-color: burlywood;
+        font-family:Arial, Helvetica, sans-serif;
+    }
